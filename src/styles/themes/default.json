@@ -1,0 +1,6 @@
+{
+    "theme": {
+        "@brand-primary": "#fe785f"
+    },
+    "tips": "https://github.com/ant-design/ant-design-mobile/wiki/设计变量表及命名规范"
+}
